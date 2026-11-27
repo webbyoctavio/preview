@@ -9,6 +9,10 @@ Sitio publicado con GitHub Pages: https://webbyoctavio.github.io/preview/ (cada 
 
 - Un diseño propio por rubro (tipografías, hero y paleta), con tres variantes de color, logo en SVG con el nombre del negocio
   y navegación con efecto vidrio.
+- Animaciones: el hero entra con una sola coreografía al cargar, distinta por rubro (titular que se pule, auto que se polariza,
+  foto que se abre en diagonal, temperatura que baja, olas, parpadeo de luz, cerradura que gira). Los titulares suben palabra
+  por palabra, el puntaje y las reseñas se cuentan solos, la barra de navegación se esconde al bajar y marca el avance, y la
+  herramienta responde a cada elección. Todo se desactiva si el dispositivo pide menos movimiento.
 - Cada muestra tiene una herramienta que funciona en el navegador y termina en un mensaje de WhatsApp armado: comparador
   antes y después con armador de presupuesto (detailing), turnero con ticket (lavaderos), simulador de polarizado sobre un
   auto en SVG (polarizados), diagnóstico por síntoma (talleres), calculadora de frigorías (aires), diagnóstico de urgencia
